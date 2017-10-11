@@ -22,7 +22,7 @@ class PostsIndex extends Component {
 
 		return (
 			<div>
-				<h3>POSTS</h3>
+				<h3>POSTS (text test)</h3>
 				<ul className='lists-group'>
 					{this.renderPosts()}
 				</ul>
